@@ -1,0 +1,27 @@
+{
+  "name": "nle-mock-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.mjs",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "helmet": "^4.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liberty-mugwara/nle-mock-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liberty-mugwara/nle-mock-api/issues"
+  },
+  "homepage": "https://github.com/liberty-mugwara/nle-mock-api#readme"
+}
